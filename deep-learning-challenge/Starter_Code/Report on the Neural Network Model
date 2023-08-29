@@ -11,7 +11,7 @@ The report should contain the following:
 Q- What variable(s) are the target(s) for your model? 
 A- The target variable is the 'IS_SUCCESSFUL' column.
 
-Q- What variable(s) are the features for your model?
+Q- What variable(s) are the features of your model?
 A- Remaining columns from application_df after dropping 'IS_SUCCESSFUL'.
 
 Q- What variable(s) should be removed from the input data because they are neither targets nor features?
@@ -26,10 +26,10 @@ Q- Were you able to achieve the target model performance?
 A- I wasn't able to
 
 Q- What steps did you take in your attempts to increase model performance?
-A- Tried more layers, columns, nodes, activations for better accuracy.
+A- Tried more layers, columns, nodes, and activations for better accuracy.
 
 3. Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and then explain your recommendation.
 
-- Model demonstrated notable accuracy.However, better correlation and cleanup could improve accuracy with different activations and iterations.
+-The model demonstrated a notable accuracy of 73%. However, better correlation and cleanup could improve accuracy with different activations and iterations.
 
 
